@@ -15,7 +15,8 @@ def print_first_directors_movie_titles
     
     index = 0 
     while index < movies.size do
-          
+    puts movies[index][:title]
+    binding.pry       
     index += 1
     end
   end

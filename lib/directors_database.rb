@@ -11,6 +11,5 @@ end
     puts movies[index][:title]
     binding.pry       
     index += 1
- 
     end
     

@@ -8,7 +8,8 @@ end
     
     index = 0 
     while index < movies.size do
-       binding.pry       
+    
+    binding.pry       
     index += 1
  
     end

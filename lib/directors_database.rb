@@ -10,7 +10,6 @@ end
     while index < movies.size do
           
     index += 1
-    
+    binding.pry 
     end
     
-binding.pry 
